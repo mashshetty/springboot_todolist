@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+body{
+	padding:10px;
+	margin:10px;
+	
+}
+
+.bvc{
+	padding:10px;
+	margin:10px;
+	
+}
+
+.ax{
+	text-decoration:none;
+	color:white;
+	z-index:10;
+
+}
+
+
+.ax:hover{
+	text-decoration:none;
+	color:white;
+}
+#btnx{
+	margin:7px;
+
+}
+
+#table{
+	width:96%;
+	margin:auto;
+	float:center;
+	margin-top:20px
+}
+
+
+.bxv{
+	background-color:red;
+	border:none;
+		border-radius:50%;
+}
+
+.bxvx{
+	background-color:#0d6efd;
+	border:none;
+	border-radius:48%;
+}
+
+
+
+
